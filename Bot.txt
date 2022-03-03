@@ -1,0 +1,3 @@
+ip-Arsalangamingpro.aternos.me
+port-57856
+name-arsalan
